@@ -1,0 +1,9 @@
+Var x = 10;
+Var y = 20;
+Var z = 5;
+
+Si (!(x > y) && (z + 15 == y) || (vrai == faux)) Alors
+    Avancer 100
+Sinon
+    Avancer -100;
+

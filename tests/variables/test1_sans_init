@@ -1,0 +1,7 @@
+Var distance;
+distance = 50;
+BaisserPinceau;
+Avancer distance;
+Tourner 90;
+distance = distance * 2;
+Avancer distance;

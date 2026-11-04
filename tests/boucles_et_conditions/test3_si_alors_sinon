@@ -1,0 +1,6 @@
+BaisserPinceau;
+
+Si vrai Alors
+  Avancer 50
+Sinon
+  Avancer 100;

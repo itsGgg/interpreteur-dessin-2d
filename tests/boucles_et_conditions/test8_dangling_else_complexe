@@ -1,0 +1,11 @@
+Var x = 10;
+Var y = 20;
+BaisserPinceau;
+Si x < 20 Alors
+  Si y < 15 Alors
+    Avancer 30
+  Sinon
+    Debut
+      Tourner 90;
+      Avancer 30;
+    Fin;

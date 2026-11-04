@@ -1,0 +1,20 @@
+BaisserPinceau;
+Var distance = 100;
+LargeurPinceau 3;
+Avancer distance;
+
+Debut
+  CouleurPinceau rouge;
+  Var distance = 30;
+  Tourner 90;
+  Avancer distance;
+  CouleurPinceau jaune;
+  Var temp = distance * 2;
+  Avancer temp;
+Fin;
+CouleurPinceau bleu;
+Tourner 90;
+Avancer distance;
+
+Var angle = 45;
+Tourner angle;

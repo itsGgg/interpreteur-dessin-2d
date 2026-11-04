@@ -1,0 +1,13 @@
+Var distance = 100;
+Var angle = 30;
+LargeurPinceau 3;
+CouleurPinceau vert;
+BaisserPinceau;
+Tant que distance > 0 && angle < 90 Faire Debut
+    Avancer distance;
+    Tourner angle;
+    distance = distance - 20;
+    angle = angle + 15;
+Fin;
+LeverPinceau;
+

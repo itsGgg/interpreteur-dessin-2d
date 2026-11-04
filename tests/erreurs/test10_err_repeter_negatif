@@ -1,0 +1,7 @@
+BaisserPinceau;
+Var n = -3;
+Repeter n Fois
+Debut
+  Avancer 20;
+  Tourner 90;
+Fin;

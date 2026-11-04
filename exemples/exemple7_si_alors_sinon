@@ -1,0 +1,30 @@
+Var taille = 3;
+
+Si taille > 3 Alors Debut
+    CouleurPinceau bleu;
+    LargeurPinceau 3;
+    BaisserPinceau;
+
+    Repeter taille Fois
+        Debut
+            Avancer 40;
+            Tourner 90;
+            Avancer 40;
+            Tourner -90;
+        Fin;
+Fin
+Sinon Debut
+    CouleurPinceau rouge;
+    LargeurPinceau 3;
+    BaisserPinceau;
+
+    Repeter taille Fois
+        Debut
+            Avancer -40;
+            Tourner -90;
+            Avancer -40;
+            Tourner 90;
+        Fin;
+Fin;
+
+LeverPinceau;

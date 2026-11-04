@@ -1,0 +1,4 @@
+BaisserPinceau;
+LargeurPinceau 5;
+CouleurPinceau 00FFFF ;
+Avancer 10;

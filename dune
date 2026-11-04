@@ -1,0 +1,11 @@
+(executable
+ (name main)
+ (modules ast env_stack lexer parser main)
+ (libraries graphics))
+
+(ocamllex
+ (modules lexer))
+
+(menhir
+ (modules parser)
+ (infer true))

@@ -1,0 +1,17 @@
+BaisserPinceau;
+LargeurPinceau 5;
+Var a = 10;
+Debut
+  Var a = 50;
+  Var b = 10;
+  Avancer a;
+  Tourner 90;      
+  CouleurPinceau rouge;
+  Avancer b;
+  Tourner 90;
+Fin;
+CouleurPinceau vert;
+Avancer a;
+CouleurPinceau fd6c9e ;
+Var b = 100;
+Avancer b;        

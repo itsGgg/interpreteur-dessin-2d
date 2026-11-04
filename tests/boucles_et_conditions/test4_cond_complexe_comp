@@ -1,0 +1,15 @@
+Var x = 7;
+Var y = 3;
+Var z = 10;
+LargeurPinceau 5;
+Si x >= 5 && y <= 3 && z != 7 && x > y Alors Debut
+  CouleurPinceau bleu;
+  BaisserPinceau;
+  Avancer 40;
+  Fin
+Sinon
+  Debut
+  CouleurPinceau rouge;
+  BaisserPinceau;
+  Tourner 90;
+  Fin;
